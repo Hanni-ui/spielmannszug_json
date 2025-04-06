@@ -1,12 +1,32 @@
 [
     {
-      "title": "Workshop: Webdesign",
-      "start": "2025-05-15T14:00:00",
-      "description": "Ein Workshop über modernes Webdesign mit HTML und CSS."
+      "title": "Walpurgisnacht Wildau",
+      "start": "2025-04-30T17:45:00",
+      "description": "Friedrich-Engels-Straße 40, Wildau"
     },
     {
-      "title": "Lesung mit Autorin",
-      "start": "2025-05-22T19:00:00",
-      "description": "Lesung und Gespräch mit der Autorin Anna Beispiel."
+      "title": "Tanz in den Mai Wünsdorf",
+      "start": "2025-05-02T18:00:00",
+      "description": "Start am Bahnhof Wünsdorf, Ende am Bürgerhaus"
+    },
+    {
+      "title": "Drum Battle - Deutsche Meisterschaft der BDMV in Ulm/Neu-Ulm",
+      "start": "2025-05-30T17:30:00",
+      "description": "Münsterplatz, Ulm"
+    },
+    {
+      "title": "Marschmusik - Deutsche Meisterschaft der BDMV in Ulm/Neu-Ulm",
+      "start": "2025-05-31T15:27:00",
+      "description": "Cricket Ground (nahe Donaustadion), Ulm"
+    },
+    {
+      "title": "Umzug Feuerwehr Pätz",
+      "start": "2025-06-07T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Pfingstkonzert",
+      "start": "2025-06-09T11:00:00",
+      "description": "Festplatz Mittenwalde (nahe Berliner Tor)"
     }
   ]
