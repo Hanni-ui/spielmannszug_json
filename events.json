@@ -28,5 +28,60 @@
       "title": "Pfingstkonzert",
       "start": "2025-06-09T11:00:00",
       "description": "Festplatz Mittenwalde (nahe Berliner Tor)"
+    },
+    {
+      "title": "Umzug Feuerwehr Rangsdorf",
+      "start": "2025-06-21T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Einschulung Grundschule Mittenwalde",
+      "start": "2025-09-06T00:00:00",
+      "description": "Beginn am Salzmarkt, Ende an der Grundschule"
+    },
+    {
+      "title": "Hasselfelder Jugend-Cup",
+      "start": "2025-09-13T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Umzug in Lübben",
+      "start": "2025-09-20T14:00:00",
+      "description": "Festplatz Mittenwalde (nahe Berliner Tor)"
+    },
+    {
+      "title": "Oktoberfest",
+      "start": "2025-09-27T00:00:00",
+      "description": "Mehrzweckhalle Mittenwalde"
+    },
+    {
+      "title": "Herbstfanfare Strausberg",
+      "start": "2025-10-03T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Martinsumzug A10-Center Wildau",
+      "start": "2025-11-07T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Karnevalsumzug Mittenwalde",
+      "start": "2025-11-08T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Martinsumzug Mittenwalde",
+      "start": "2025-11-11T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Martinsumzug Groß Machnow",
+      "start": "2025-11-14T00:00:00",
+      "description": ""
+    },
+    {
+      "title": "Martinsumzug Kita Wildau",
+      "start": "2025-11-21T00:00:00",
+      "description": ""
     }
   ]
