@@ -40,6 +40,12 @@
       "description": ""
     },
     {
+      "title": "Umzug 650 Jahre Rangsdorf",
+      "start": "2025-07-19",
+      "allDay": true,
+      "description": ""
+    },
+    {
       "title": "Einschulung Grundschule Mittenwalde",
       "start": "2025-09-06",
       "allDay": true,
@@ -66,6 +72,12 @@
     {
       "title": "Herbstfanfare Strausberg",
       "start": "2025-10-03",
+      "allDay": true,
+      "description": ""
+    },
+    {
+      "title": "Umzug Kita Rangsdorf",
+      "start": "2025-10-10",
       "allDay": true,
       "description": ""
     },
