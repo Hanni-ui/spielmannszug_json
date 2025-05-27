@@ -35,7 +35,17 @@
     },
     {
       "title": "Umzug Feuerwehr Rangsdorf",
-      "start": "2025-06-21",
+      "start": "2025-06-21T10:30:00",
+      "description": "Dorfaue Pätz"
+    },
+    {
+      "title": "Umzug 650 Jahre Rangsdorf",
+      "start": "2025-07-19T13:00:00",
+      "description": "Kirche Rangsdorf"
+    },
+    {
+      "title": "Konzert Groß Kienitz",
+      "start": "2025-07-12",
       "allDay": true,
       "description": ""
     },
