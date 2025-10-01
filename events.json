@@ -134,7 +134,9 @@
     {"title": "Frohe-Klänge-Pokal 2026",
       "start": "2026-09-11",
       "end": "2026-09-13",
+      "allDay": true,
       "description": "Mittenwalde, anlässlich unseres 100-jährigen Jubiläums"
     }
   ]
+
 
