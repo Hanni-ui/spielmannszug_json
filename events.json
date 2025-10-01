@@ -51,8 +51,8 @@
     },
     {
       "title": "Einschulung Grundschule Mittenwalde",
-      "start": "2025-09-06",
-      "allDay": true,
+      "start": "2025-09-06T08:30:00",
+      "end": "2025-09-06T11:00:00",
       "description": "Beginn am Salzmarkt, Ende an der Grundschule"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "title": "Umzug in Lübben",
-      "start": "2025-09-20T14:00:00",
+      "start": "2025-09-20T14:30:00",
       "end": "2025-09-20T16:00:00",
       "description": ""
     },
@@ -75,12 +75,16 @@
     },
     {
       "title": "Herbstfanfare Strausberg",
-      "start": "2025-10-03",
-      "allDay": true,
-      "description": ""
+      "start": "2025-10-03T18:15:00",
+      "description": "Energie-Arena Strausberg"
     },
     {
-      "title": "Umzug Kita Rangsdorf",
+      "title": "105 Jahre Freie Spielleute Neukölln",
+      "start": "2025-10-04T15:15:00",
+      "description": "Vereinsheim, Hüfnerweg 4, 12349 Berlin"
+    },
+    {
+      "title": "Umzug Kita Räuberhöhle Rangsdorf",
       "start": "2025-10-10",
       "allDay": true,
       "description": ""
@@ -115,9 +119,22 @@
       "allDay": true,
       "description": ""
     },
+    {
+      "title": "Feierstunde anlässlich 100 Jahre Spielmannszug Mittenwalde",
+      "start": "2026-04-18",
+      "allDay": true,
+      "description": ""
+    },
+    {
+      "title": "Pfingstkonzert",
+      "start": "2026-05-25",
+      "allDay": true,
+      "description": ""
+    },
     {"title": "Frohe-Klänge-Pokal 2026",
-      "start": "2026-09-12",
+      "start": "2026-09-11",
       "end": "2026-09-13",
       "description": "Mittenwalde, anlässlich unseres 100-jährigen Jubiläums"
     }
   ]
+
