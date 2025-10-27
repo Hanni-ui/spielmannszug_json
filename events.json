@@ -91,33 +91,28 @@
     },
     {
       "title": "Martinsumzug A10-Center Wildau",
-      "start": "2025-11-07",
-      "allDay": true,
+      "start": "2025-11-07T18:00:00",
       "description": ""
     },
     {
       "title": "Karnevalsumzug Mittenwalde",
-      "start": "2025-11-08",
-      "allDay": true,
+      "start": "2025-11-08T11:00:00",
+      "description": "Fahnenhisse 11.11 Uhr am Pulverturm, Umzug 13.00 Uhr Paul-Gerhardt-Straße"
+    },
+    {
+      "title": "Martinsumzug Kita Mittenwalde",
+      "start": "2025-11-11T17:30:00",
       "description": ""
     },
     {
-      "title": "Martinsumzug Mittenwalde",
-      "start": "2025-11-11",
-      "allDay": true,
-      "description": ""
-    },
-    {
-      "title": "Martinsumzug Groß Machnow",
-      "start": "2025-11-14",
-      "allDay": true,
+      "title": "Martinsumzug Kita Knirpsenland Groß Machnow",
+      "start": "2025-11-14T17:30:00",
       "description": ""
     },
     {
       "title": "Martinsumzug Kita Wildau",
-      "start": "2025-11-21",
-      "allDay": true,
-      "description": ""
+      "start": "2025-11-21T18:00:00",
+      "description": "Start am Marktplatz 1, Wildau"
     },
     {
       "title": "Feierstunde anlässlich 100 Jahre Spielmannszug Mittenwalde",
@@ -138,5 +133,6 @@
       "description": "Mittenwalde, anlässlich unseres 100-jährigen Jubiläums"
     }
   ]
+
 
 
